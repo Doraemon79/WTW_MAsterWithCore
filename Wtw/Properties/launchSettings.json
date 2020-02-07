@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Wtw": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt output.txt"
+    }
+  }
+}
